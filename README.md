@@ -11,3 +11,5 @@ Able to:
 <li>	know how to use Python libraries such as PyTorch  for Deep Learning applications </li>
 <li>	build Deep Neural Networks using PyTorch</li>
 </ul>
+
+## <a href="https://coursera.org/share/019ea7a455103d0edb898c4c5b44f2b8">Certificate</a>
